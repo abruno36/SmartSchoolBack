@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SmartSchool.WebAPI
+build_property.ProjectDir = C:\Projetos\SmantSchool-Back\SmartSchool.WebAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
